@@ -1,0 +1,1001 @@
+Avg_VTAT,Avg_CTAT,Cancelled_Rides_By_Customer,Cancelled_Rides_By_Driver,Driver_Cancellation_Reason,Incomplete_Rides,Booking_Value,Ride_Distance,Driver_Ratings,Customer_Rating,Payment_Method
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+4.90,14.00,N/A,N/A,N/A,1,237,5.73,N/A,N/A,"UPI"
+13.40,25.80,N/A,N/A,N/A,N/A,627,13.58,4.90,4.90,"Debit Card"
+13.10,28.50,N/A,N/A,N/A,N/A,416,34.02,4.60,5.00,"UPI"
+5.30,19.60,N/A,N/A,N/A,N/A,737,48.21,4.10,4.30,"UPI"
+5.10,18.10,N/A,N/A,N/A,N/A,316,4.85,4.10,4.60,"UPI"
+7.10,20.40,N/A,N/A,N/A,N/A,640,41.24,4.00,4.10,"UPI"
+12.10,16.50,N/A,N/A,N/A,N/A,136,6.56,4.40,4.20,"UPI"
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+6.10,26.00,N/A,N/A,N/A,1,135,10.36,N/A,N/A,"Cash"
+7.70,18.90,N/A,N/A,N/A,N/A,181,19.84,4.20,4.90,"Cash"
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+4.60,N/A,N/A,1,"Personal & Car related issues",N/A,N/A,N/A,N/A,N/A,N/A
+12.20,28.20,N/A,N/A,N/A,N/A,394,21.44,4.10,4.70,"UPI"
+14.00,30.90,N/A,N/A,N/A,N/A,836,39.55,4.70,4.40,"UPI"
+8.50,36.90,N/A,N/A,N/A,N/A,410,34.76,4.00,4.90,"Uber Wallet"
+5.60,27.50,N/A,N/A,N/A,N/A,401,21.97,4.90,4.30,"UPI"
+6.00,N/A,N/A,1,"Customer related issue",N/A,N/A,N/A,N/A,N/A,N/A
+12.40,N/A,1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+10.30,N/A,N/A,1,"Customer related issue",N/A,N/A,N/A,N/A,N/A,N/A
+6.10,33.70,N/A,N/A,N/A,N/A,264,13.64,3.80,4.70,"Uber Wallet"
+7.00,21.30,N/A,N/A,N/A,N/A,183,4.50,5.00,4.20,"UPI"
+10.40,25.10,N/A,N/A,N/A,N/A,713,38.03,3.70,3.60,"UPI"
+7.90,41.10,N/A,N/A,N/A,N/A,113,14.53,4.60,4.90,"UPI"
+13.60,25.20,N/A,N/A,N/A,N/A,767,7.39,3.80,4.60,"Debit Card"
+5.10,20.70,N/A,N/A,N/A,N/A,495,10.23,3.80,4.20,"Credit Card"
+11.50,N/A,N/A,1,"Personal & Car related issues",N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+3.10,28.20,N/A,N/A,N/A,1,304,1.98,N/A,N/A,"UPI"
+8.90,31.10,N/A,N/A,N/A,N/A,2847,39.21,3.10,4.60,"Debit Card"
+9.20,N/A,N/A,1,"More than permitted people in there",N/A,N/A,N/A,N/A,N/A,N/A
+8.90,41.00,N/A,N/A,N/A,N/A,282,8.36,3.80,4.40,"UPI"
+11.50,20.50,N/A,N/A,N/A,N/A,656,6.39,5.00,4.90,"Uber Wallet"
+2.00,19.40,N/A,N/A,N/A,N/A,134,46.66,3.80,4.40,"Credit Card"
+5.40,N/A,N/A,1,"Customer related issue",N/A,N/A,N/A,N/A,N/A,N/A
+14.60,25.40,N/A,N/A,N/A,N/A,470,27.07,3.70,4.20,"Cash"
+6.70,20.50,N/A,N/A,N/A,N/A,187,12.16,4.90,4.30,"UPI"
+6.60,30.00,N/A,N/A,N/A,N/A,186,10.28,4.40,4.60,"UPI"
+10.00,35.80,N/A,N/A,N/A,N/A,70,44.42,4.10,4.40,"UPI"
+11.00,N/A,1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+8.00,N/A,N/A,1,"Personal & Car related issues",N/A,N/A,N/A,N/A,N/A,N/A
+12.80,18.70,N/A,N/A,N/A,N/A,273,34.64,4.50,4.60,"Uber Wallet"
+6.40,10.50,N/A,N/A,N/A,1,966,18.30,N/A,N/A,"Debit Card"
+5.40,N/A,N/A,1,"More than permitted people in there",N/A,N/A,N/A,N/A,N/A,N/A
+12.20,42.30,N/A,N/A,N/A,N/A,251,20.91,4.20,3.60,"Debit Card"
+6.60,N/A,N/A,1,"More than permitted people in there",N/A,N/A,N/A,N/A,N/A,N/A
+11.30,N/A,1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+2.30,29.70,N/A,N/A,N/A,1,453,19.24,N/A,N/A,"Debit Card"
+7.80,42.20,N/A,N/A,N/A,N/A,246,8.13,4.20,4.50,"UPI"
+8.80,25.20,N/A,N/A,N/A,N/A,237,2.96,3.90,3.30,"UPI"
+9.90,21.60,N/A,N/A,N/A,1,1581,1.82,N/A,N/A,"Cash"
+4.10,25.10,N/A,N/A,N/A,N/A,379,33.04,4.20,4.50,"Uber Wallet"
+11.20,40.70,N/A,N/A,N/A,N/A,545,44.70,4.30,4.30,"Cash"
+3.00,35.40,N/A,N/A,N/A,N/A,479,7.38,4.20,4.60,"UPI"
+11.20,N/A,N/A,1,"More than permitted people in there",N/A,N/A,N/A,N/A,N/A,N/A
+9.10,23.20,N/A,N/A,N/A,N/A,647,24.93,4.30,4.70,"Uber Wallet"
+4.30,N/A,N/A,1,"More than permitted people in there",N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+11.40,42.10,N/A,N/A,N/A,N/A,125,25.16,4.30,5.00,"Credit Card"
+6.30,N/A,N/A,1,"Customer related issue",N/A,N/A,N/A,N/A,N/A,N/A
+12.40,21.50,N/A,N/A,N/A,N/A,375,48.85,3.30,3.30,"Cash"
+11.70,33.00,N/A,N/A,N/A,N/A,310,24.41,4.60,3.80,"Debit Card"
+16.60,N/A,1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+5.40,N/A,N/A,1,"Customer related issue",N/A,N/A,N/A,N/A,N/A,N/A
+2.30,10.10,N/A,N/A,N/A,1,370,13.85,N/A,N/A,"Cash"
+5.80,N/A,N/A,1,"More than permitted people in there",N/A,N/A,N/A,N/A,N/A,N/A
+6.70,N/A,N/A,1,"Customer related issue",N/A,N/A,N/A,N/A,N/A,N/A
+12.10,18.10,N/A,N/A,N/A,N/A,291,3.71,3.20,4.30,"UPI"
+5.80,24.30,N/A,N/A,N/A,N/A,114,32.98,4.30,4.50,"Uber Wallet"
+4.00,44.50,N/A,N/A,N/A,N/A,464,11.20,4.50,4.20,"Cash"
+3.40,27.10,N/A,N/A,N/A,N/A,160,45.40,4.00,5.00,"Cash"
+11.10,N/A,N/A,1,"Personal & Car related issues",N/A,N/A,N/A,N/A,N/A,N/A
+9.90,38.50,N/A,N/A,N/A,N/A,206,28.78,4.10,3.70,"Cash"
+5.90,17.20,N/A,N/A,N/A,1,217,2.81,N/A,N/A,"Credit Card"
+8.10,37.30,N/A,N/A,N/A,N/A,633,17.34,4.50,4.90,"Credit Card"
+6.10,28.20,N/A,N/A,N/A,N/A,717,9.38,4.20,4.50,"UPI"
+6.00,26.70,N/A,N/A,N/A,N/A,151,11.90,4.90,4.50,"UPI"
+5.00,34.70,N/A,N/A,N/A,N/A,512,35.66,3.70,4.90,"UPI"
+12.00,N/A,1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+3.20,N/A,N/A,1,"Personal & Car related issues",N/A,N/A,N/A,N/A,N/A,N/A
+9.60,39.10,N/A,N/A,N/A,N/A,1390,21.79,5.00,4.90,"UPI"
+3.90,N/A,N/A,1,"More than permitted people in there",N/A,N/A,N/A,N/A,N/A,N/A
+3.90,23.00,N/A,N/A,N/A,N/A,224,7.86,4.10,4.20,"Cash"
+8.40,31.30,N/A,N/A,N/A,N/A,708,18.04,4.60,4.80,"UPI"
+7.70,43.70,N/A,N/A,N/A,N/A,153,15.18,4.20,3.60,"Uber Wallet"
+6.30,N/A,N/A,1,"The customer was coughing/sick",N/A,N/A,N/A,N/A,N/A,N/A
+5.00,35.00,N/A,N/A,N/A,N/A,72,13.38,4.70,4.20,"Cash"
+8.90,15.60,N/A,N/A,N/A,1,282,11.81,N/A,N/A,"UPI"
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+10.90,43.60,N/A,N/A,N/A,N/A,696,30.90,4.70,3.70,"UPI"
+5.70,18.00,N/A,N/A,N/A,1,936,14.91,N/A,N/A,"Uber Wallet"
+8.60,32.70,N/A,N/A,N/A,N/A,2169,44.25,4.40,4.30,"Uber Wallet"
+9.50,24.60,N/A,N/A,N/A,N/A,136,45.46,3.20,3.80,"Uber Wallet"
+4.60,38.90,N/A,N/A,N/A,N/A,214,2.91,4.10,4.70,"UPI"
+10.30,16.40,N/A,N/A,N/A,N/A,835,37.57,4.20,4.80,"UPI"
+6.00,N/A,N/A,1,"More than permitted people in there",N/A,N/A,N/A,N/A,N/A,N/A
+2.60,36.20,N/A,N/A,N/A,N/A,705,40.18,3.90,4.80,"UPI"
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+2.10,35.50,N/A,N/A,N/A,N/A,480,20.22,4.30,4.80,"Debit Card"
+14.40,N/A,1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+7.50,41.70,N/A,N/A,N/A,N/A,707,44.76,4.80,4.40,"UPI"
+9.90,N/A,N/A,1,"Personal & Car related issues",N/A,N/A,N/A,N/A,N/A,N/A
+10.00,38.00,N/A,N/A,N/A,N/A,865,43.34,3.20,3.80,"Cash"
+10.80,40.00,N/A,N/A,N/A,N/A,768,5.97,4.30,4.80,"Cash"
+7.00,37.00,N/A,N/A,N/A,N/A,626,27.96,3.90,4.30,"Uber Wallet"
+9.20,40.40,N/A,N/A,N/A,N/A,443,21.19,4.20,5.00,"UPI"
+7.90,N/A,1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+9.90,28.70,N/A,N/A,N/A,N/A,226,47.63,3.60,4.10,"UPI"
+12.80,30.60,N/A,N/A,N/A,N/A,449,24.40,3.30,4.10,"UPI"
+5.90,21.10,N/A,N/A,N/A,N/A,778,7.49,4.30,4.90,"UPI"
+14.70,18.80,N/A,N/A,N/A,N/A,361,24.44,4.30,4.80,"UPI"
+3.50,30.40,N/A,N/A,N/A,N/A,235,9.20,4.30,3.90,"UPI"
+8.60,15.90,N/A,N/A,N/A,N/A,186,28.09,4.20,4.40,"Cash"
+3.20,21.90,N/A,N/A,N/A,1,544,3.37,N/A,N/A,"Cash"
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+13.10,N/A,1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+8.10,N/A,1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+7.70,25.00,N/A,N/A,N/A,N/A,86,40.10,3.60,4.40,"Cash"
+8.10,N/A,N/A,1,"Personal & Car related issues",N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+8.30,43.70,N/A,N/A,N/A,N/A,234,42.50,3.70,4.90,"Cash"
+11.90,N/A,N/A,1,"The customer was coughing/sick",N/A,N/A,N/A,N/A,N/A,N/A
+6.00,44.40,N/A,N/A,N/A,N/A,758,41.42,4.90,3.60,"Cash"
+7.90,16.70,N/A,N/A,N/A,1,629,17.52,N/A,N/A,"UPI"
+12.50,26.30,N/A,N/A,N/A,N/A,273,31.69,4.40,4.80,"UPI"
+11.10,19.60,N/A,N/A,N/A,N/A,117,33.74,4.50,3.70,"Debit Card"
+13.30,15.80,N/A,N/A,N/A,N/A,955,36.82,3.70,3.70,"UPI"
+9.70,31.50,N/A,N/A,N/A,N/A,139,38.75,4.40,4.30,"UPI"
+13.30,30.70,N/A,N/A,N/A,N/A,255,17.07,4.30,4.40,"Cash"
+9.50,18.00,N/A,N/A,N/A,N/A,1212,19.18,4.30,4.30,"UPI"
+10.00,23.60,N/A,N/A,N/A,N/A,81,23.93,4.70,3.90,"Debit Card"
+3.60,24.20,N/A,N/A,N/A,N/A,940,29.09,4.20,4.60,"UPI"
+8.50,N/A,N/A,1,"The customer was coughing/sick",N/A,N/A,N/A,N/A,N/A,N/A
+10.00,17.90,N/A,N/A,N/A,N/A,98,27.55,4.20,4.10,"Cash"
+5.90,15.50,N/A,N/A,N/A,N/A,724,14.00,4.10,4.20,"Cash"
+8.00,25.30,N/A,N/A,N/A,N/A,749,47.30,4.40,4.30,"UPI"
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+11.50,37.40,N/A,N/A,N/A,N/A,244,14.59,4.10,4.80,"UPI"
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+2.60,22.80,N/A,N/A,N/A,1,351,8.68,N/A,N/A,"UPI"
+5.40,28.90,N/A,N/A,N/A,N/A,585,34.14,4.60,4.10,"Debit Card"
+6.40,44.70,N/A,N/A,N/A,N/A,554,31.79,4.30,4.60,"Cash"
+10.80,28.50,N/A,N/A,N/A,N/A,803,25.01,4.10,4.50,"Credit Card"
+9.40,24.80,N/A,N/A,N/A,N/A,388,17.56,4.20,4.70,"UPI"
+7.00,N/A,1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+11.20,38.50,N/A,N/A,N/A,N/A,192,48.96,3.10,4.60,"UPI"
+9.00,39.10,N/A,N/A,N/A,N/A,79,32.91,4.40,3.80,"Uber Wallet"
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+2.40,26.60,N/A,N/A,N/A,N/A,242,45.70,4.00,4.90,"UPI"
+13.40,N/A,1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+5.40,32.60,N/A,N/A,N/A,N/A,323,38.32,4.40,3.70,"Uber Wallet"
+7.70,N/A,N/A,1,"Customer related issue",N/A,N/A,N/A,N/A,N/A,N/A
+5.40,24.40,N/A,N/A,N/A,N/A,799,9.10,4.20,4.60,"UPI"
+19.10,N/A,1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+2.90,39.30,N/A,N/A,N/A,N/A,134,49.26,4.10,4.90,"UPI"
+3.90,N/A,N/A,1,"More than permitted people in there",N/A,N/A,N/A,N/A,N/A,N/A
+18.50,N/A,1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+16.10,N/A,1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+13.70,40.70,N/A,N/A,N/A,N/A,113,8.21,4.30,5.00,"UPI"
+2.30,19.60,N/A,N/A,N/A,1,84,16.09,N/A,N/A,"Uber Wallet"
+12.10,32.50,N/A,N/A,N/A,N/A,81,11.94,4.00,4.50,"UPI"
+4.50,43.10,N/A,N/A,N/A,N/A,992,8.23,5.00,4.60,"UPI"
+3.60,26.50,N/A,N/A,N/A,N/A,513,49.50,4.30,4.90,"UPI"
+5.80,38.90,N/A,N/A,N/A,N/A,635,37.37,4.30,4.60,"UPI"
+6.90,17.00,N/A,N/A,N/A,N/A,242,35.38,4.40,4.90,"UPI"
+12.50,20.60,N/A,N/A,N/A,N/A,1114,34.81,4.10,4.20,"Uber Wallet"
+9.00,37.70,N/A,N/A,N/A,N/A,372,20.92,3.80,4.60,"UPI"
+6.20,N/A,N/A,1,"The customer was coughing/sick",N/A,N/A,N/A,N/A,N/A,N/A
+3.50,40.20,N/A,N/A,N/A,N/A,387,23.39,4.30,4.70,"Uber Wallet"
+7.10,31.60,N/A,N/A,N/A,N/A,767,30.82,4.60,4.90,"UPI"
+7.10,24.40,N/A,N/A,N/A,N/A,447,21.31,4.50,4.10,"UPI"
+6.70,33.50,N/A,N/A,N/A,N/A,500,20.41,4.30,4.70,"Credit Card"
+7.20,N/A,N/A,1,"Personal & Car related issues",N/A,N/A,N/A,N/A,N/A,N/A
+3.70,38.90,N/A,N/A,N/A,N/A,446,25.94,4.90,4.30,"Debit Card"
+11.60,N/A,N/A,1,"The customer was coughing/sick",N/A,N/A,N/A,N/A,N/A,N/A
+2.60,32.90,N/A,N/A,N/A,N/A,125,39.16,4.10,4.90,"UPI"
+11.40,17.20,N/A,N/A,N/A,N/A,419,23.79,4.30,4.70,"Uber Wallet"
+3.30,N/A,N/A,1,"More than permitted people in there",N/A,N/A,N/A,N/A,N/A,N/A
+4.70,17.70,N/A,N/A,N/A,N/A,477,41.93,4.60,4.90,"Cash"
+5.80,N/A,N/A,1,"The customer was coughing/sick",N/A,N/A,N/A,N/A,N/A,N/A
+8.00,N/A,N/A,1,"Customer related issue",N/A,N/A,N/A,N/A,N/A,N/A
+11.30,33.00,N/A,N/A,N/A,N/A,352,6.71,4.20,4.70,"UPI"
+11.10,N/A,N/A,1,"Customer related issue",N/A,N/A,N/A,N/A,N/A,N/A
+7.40,39.00,N/A,N/A,N/A,N/A,117,15.63,4.60,4.50,"UPI"
+9.40,N/A,N/A,1,"More than permitted people in there",N/A,N/A,N/A,N/A,N/A,N/A
+9.30,28.50,N/A,N/A,N/A,N/A,51,29.80,4.60,3.90,"UPI"
+6.00,26.60,N/A,N/A,N/A,N/A,81,5.59,4.90,4.20,"Cash"
+8.20,N/A,N/A,1,"The customer was coughing/sick",N/A,N/A,N/A,N/A,N/A,N/A
+7.20,18.40,N/A,N/A,N/A,1,635,6.57,N/A,N/A,"UPI"
+13.50,41.80,N/A,N/A,N/A,N/A,51,4.44,4.40,4.70,"Uber Wallet"
+4.90,33.00,N/A,N/A,N/A,N/A,469,26.93,4.30,4.90,"UPI"
+9.90,22.00,N/A,N/A,N/A,N/A,320,28.78,4.20,4.50,"UPI"
+13.30,24.60,N/A,N/A,N/A,N/A,726,12.98,4.20,4.30,"Debit Card"
+2.00,10.30,N/A,N/A,N/A,1,68,19.06,N/A,N/A,"Cash"
+4.40,15.70,N/A,N/A,N/A,1,136,14.00,N/A,N/A,"Debit Card"
+8.80,16.80,N/A,N/A,N/A,N/A,455,43.06,3.80,4.30,"UPI"
+2.60,22.20,N/A,N/A,N/A,N/A,995,38.96,4.70,4.90,"Debit Card"
+2.70,25.80,N/A,N/A,N/A,N/A,1179,18.87,4.90,4.60,"Uber Wallet"
+11.00,33.10,N/A,N/A,N/A,N/A,525,47.88,4.20,4.60,"Uber Wallet"
+11.30,N/A,N/A,1,"Personal & Car related issues",N/A,N/A,N/A,N/A,N/A,N/A
+6.90,N/A,N/A,1,"More than permitted people in there",N/A,N/A,N/A,N/A,N/A,N/A
+5.10,27.90,N/A,N/A,N/A,N/A,300,5.70,4.20,4.60,"UPI"
+11.10,18.40,N/A,N/A,N/A,N/A,202,4.62,3.20,4.10,"UPI"
+6.30,34.10,N/A,N/A,N/A,N/A,475,42.26,4.30,4.20,"Cash"
+6.10,17.00,N/A,N/A,N/A,N/A,833,19.49,4.00,3.40,"Debit Card"
+3.90,N/A,N/A,1,"Customer related issue",N/A,N/A,N/A,N/A,N/A,N/A
+7.30,33.10,N/A,N/A,N/A,N/A,158,40.36,3.70,4.90,"UPI"
+10.00,36.90,N/A,N/A,N/A,N/A,155,42.59,4.70,3.20,"Cash"
+9.30,N/A,N/A,1,"More than permitted people in there",N/A,N/A,N/A,N/A,N/A,N/A
+10.50,33.90,N/A,N/A,N/A,N/A,107,21.68,4.30,4.90,"UPI"
+6.80,22.40,N/A,N/A,N/A,N/A,151,29.90,4.60,4.60,"UPI"
+10.70,30.40,N/A,N/A,N/A,N/A,187,42.27,4.30,4.80,"Cash"
+12.30,34.60,N/A,N/A,N/A,N/A,1543,49.71,4.40,5.00,"Cash"
+3.80,20.20,N/A,N/A,N/A,N/A,432,32.56,4.20,5.00,"UPI"
+10.20,N/A,1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+4.40,23.60,N/A,N/A,N/A,1,195,14.49,N/A,N/A,"Uber Wallet"
+3.20,30.80,N/A,N/A,N/A,N/A,54,31.49,4.60,4.90,"Cash"
+13.40,20.00,N/A,N/A,N/A,N/A,939,21.28,3.80,5.00,"UPI"
+9.80,43.40,N/A,N/A,N/A,N/A,829,34.14,4.60,4.20,"UPI"
+8.70,27.20,N/A,N/A,N/A,N/A,314,20.66,4.60,4.30,"UPI"
+11.70,30.50,N/A,N/A,N/A,N/A,1249,24.60,4.10,3.70,"Cash"
+4.50,27.40,N/A,N/A,N/A,N/A,437,27.94,3.90,4.60,"UPI"
+9.60,28.10,N/A,N/A,N/A,N/A,83,44.57,4.60,4.50,"UPI"
+14.20,15.70,N/A,N/A,N/A,N/A,1444,15.43,4.20,3.10,"Cash"
+6.50,N/A,N/A,1,"Customer related issue",N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+5.80,31.40,N/A,N/A,N/A,N/A,1368,42.88,4.30,3.80,"Cash"
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+7.10,18.00,N/A,N/A,N/A,N/A,418,23.31,4.20,4.60,"UPI"
+11.00,40.00,N/A,N/A,N/A,N/A,363,31.36,4.20,4.30,"UPI"
+12.80,15.30,N/A,N/A,N/A,N/A,279,16.68,4.10,4.90,"Cash"
+5.10,39.90,N/A,N/A,N/A,N/A,332,49.06,4.40,4.60,"Cash"
+4.70,37.90,N/A,N/A,N/A,N/A,448,28.34,4.30,4.90,"UPI"
+11.20,N/A,1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+12.90,29.70,N/A,N/A,N/A,N/A,64,38.65,3.50,5.00,"UPI"
+4.20,18.90,N/A,N/A,N/A,N/A,682,3.05,4.70,4.30,"UPI"
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+5.20,37.80,N/A,N/A,N/A,N/A,488,41.81,4.20,4.10,"UPI"
+16.90,N/A,1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+3.90,40.60,N/A,N/A,N/A,N/A,953,31.28,4.90,4.70,"Cash"
+9.90,15.60,N/A,N/A,N/A,N/A,965,34.50,4.10,4.20,"UPI"
+10.00,40.60,N/A,N/A,N/A,N/A,405,13.10,3.60,4.60,"Credit Card"
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+10.20,N/A,N/A,1,"Personal & Car related issues",N/A,N/A,N/A,N/A,N/A,N/A
+5.00,23.70,N/A,N/A,N/A,N/A,423,9.93,4.40,4.90,"UPI"
+11.90,N/A,1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+11.10,31.90,N/A,N/A,N/A,N/A,264,31.93,3.70,4.20,"UPI"
+11.20,31.30,N/A,N/A,N/A,N/A,249,34.73,4.20,4.90,"UPI"
+13.50,32.90,N/A,N/A,N/A,N/A,628,31.51,4.90,4.90,"Cash"
+4.10,19.70,N/A,N/A,N/A,1,110,14.46,N/A,N/A,"UPI"
+9.30,N/A,N/A,1,"Customer related issue",N/A,N/A,N/A,N/A,N/A,N/A
+7.70,15.90,N/A,N/A,N/A,N/A,190,10.27,4.70,4.80,"UPI"
+5.20,23.10,N/A,N/A,N/A,N/A,264,46.07,4.30,3.10,"Uber Wallet"
+7.60,N/A,1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+10.00,37.30,N/A,N/A,N/A,N/A,147,45.51,4.30,4.50,"UPI"
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+4.40,28.10,N/A,N/A,N/A,N/A,953,34.90,4.40,4.80,"UPI"
+14.90,20.90,N/A,N/A,N/A,N/A,654,30.87,4.30,4.90,"Cash"
+8.40,19.70,N/A,N/A,N/A,N/A,427,37.07,4.10,4.90,"Cash"
+11.80,N/A,N/A,1,"Personal & Car related issues",N/A,N/A,N/A,N/A,N/A,N/A
+5.80,25.50,N/A,N/A,N/A,N/A,610,35.38,4.40,4.30,"Uber Wallet"
+7.10,42.50,N/A,N/A,N/A,N/A,648,19.61,4.20,5.00,"UPI"
+8.80,40.40,N/A,N/A,N/A,N/A,792,23.82,3.20,4.30,"Cash"
+13.60,29.80,N/A,N/A,N/A,N/A,676,39.98,3.60,4.70,"UPI"
+5.10,22.40,N/A,N/A,N/A,N/A,389,27.16,3.60,3.90,"Uber Wallet"
+11.40,42.60,N/A,N/A,N/A,N/A,74,48.45,4.10,3.90,"Uber Wallet"
+8.20,N/A,N/A,1,"Personal & Car related issues",N/A,N/A,N/A,N/A,N/A,N/A
+10.80,N/A,N/A,1,"The customer was coughing/sick",N/A,N/A,N/A,N/A,N/A,N/A
+9.40,41.60,N/A,N/A,N/A,N/A,465,25.05,4.40,4.90,"Credit Card"
+5.30,43.60,N/A,N/A,N/A,N/A,932,40.21,4.10,4.10,"UPI"
+10.80,33.70,N/A,N/A,N/A,N/A,191,44.48,3.80,4.90,"Cash"
+5.20,34.90,N/A,N/A,N/A,N/A,770,6.82,4.30,4.80,"UPI"
+14.30,23.40,N/A,N/A,N/A,N/A,514,16.21,4.30,3.80,"UPI"
+11.70,N/A,N/A,1,"More than permitted people in there",N/A,N/A,N/A,N/A,N/A,N/A
+11.70,17.30,N/A,N/A,N/A,N/A,349,12.90,4.20,5.00,"UPI"
+10.10,N/A,N/A,1,"Customer related issue",N/A,N/A,N/A,N/A,N/A,N/A
+9.20,41.20,N/A,N/A,N/A,N/A,267,12.22,4.30,4.10,"Cash"
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+4.40,37.00,N/A,N/A,N/A,N/A,325,3.95,3.80,4.80,"UPI"
+4.30,15.60,N/A,N/A,N/A,N/A,156,42.87,3.90,4.20,"Cash"
+5.20,27.30,N/A,N/A,N/A,N/A,689,39.84,4.30,4.90,"UPI"
+13.60,40.40,N/A,N/A,N/A,N/A,491,4.19,3.80,3.90,"Credit Card"
+10.10,32.50,N/A,N/A,N/A,N/A,304,6.18,4.20,4.30,"Credit Card"
+12.00,N/A,N/A,1,"More than permitted people in there",N/A,N/A,N/A,N/A,N/A,N/A
+12.60,N/A,1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+14.80,44.40,N/A,N/A,N/A,N/A,697,4.56,4.50,4.60,"UPI"
+3.80,20.10,N/A,N/A,N/A,N/A,679,47.56,4.20,4.90,"UPI"
+2.90,18.00,N/A,N/A,N/A,1,713,14.65,N/A,N/A,"Cash"
+8.60,N/A,N/A,1,"Customer related issue",N/A,N/A,N/A,N/A,N/A,N/A
+10.00,18.50,N/A,N/A,N/A,N/A,683,32.15,4.60,4.00,"UPI"
+7.80,36.40,N/A,N/A,N/A,N/A,91,23.50,4.00,4.30,"UPI"
+3.10,12.40,N/A,N/A,N/A,1,396,16.61,N/A,N/A,"UPI"
+8.50,35.70,N/A,N/A,N/A,N/A,769,18.14,4.40,4.10,"Cash"
+2.30,16.40,N/A,N/A,N/A,N/A,323,31.10,3.60,4.60,"Uber Wallet"
+3.60,27.70,N/A,N/A,N/A,1,627,3.74,N/A,N/A,"Uber Wallet"
+12.90,26.00,N/A,N/A,N/A,N/A,134,13.99,4.80,4.10,"Cash"
+12.10,33.60,N/A,N/A,N/A,N/A,940,5.04,4.60,4.60,"Credit Card"
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+9.60,26.20,N/A,N/A,N/A,N/A,266,36.18,4.10,4.20,"Uber Wallet"
+8.10,26.40,N/A,N/A,N/A,N/A,484,13.21,4.50,4.30,"Uber Wallet"
+5.60,19.20,N/A,N/A,N/A,N/A,250,6.06,4.30,4.70,"Cash"
+9.30,N/A,N/A,1,"The customer was coughing/sick",N/A,N/A,N/A,N/A,N/A,N/A
+8.80,20.00,N/A,N/A,N/A,1,361,14.61,N/A,N/A,"UPI"
+2.60,21.00,N/A,N/A,N/A,N/A,224,48.08,5.00,4.60,"Cash"
+8.50,N/A,1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+12.80,36.80,N/A,N/A,N/A,N/A,669,39.51,3.60,4.20,"Cash"
+8.70,N/A,1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+8.80,N/A,N/A,1,"Customer related issue",N/A,N/A,N/A,N/A,N/A,N/A
+5.20,31.70,N/A,N/A,N/A,N/A,207,7.83,4.40,3.90,"Uber Wallet"
+13.20,35.80,N/A,N/A,N/A,N/A,227,12.34,4.10,3.10,"Cash"
+2.30,33.80,N/A,N/A,N/A,N/A,771,36.70,3.50,4.60,"UPI"
+9.10,N/A,N/A,1,"Personal & Car related issues",N/A,N/A,N/A,N/A,N/A,N/A
+14.20,26.40,N/A,N/A,N/A,N/A,441,31.50,4.70,3.10,"Uber Wallet"
+11.20,N/A,N/A,1,"Customer related issue",N/A,N/A,N/A,N/A,N/A,N/A
+12.40,21.60,N/A,N/A,N/A,N/A,788,4.26,4.20,4.50,"UPI"
+13.30,41.60,N/A,N/A,N/A,N/A,459,46.74,5.00,4.90,"UPI"
+4.70,42.50,N/A,N/A,N/A,N/A,473,48.35,4.70,3.80,"Cash"
+14.50,19.80,N/A,N/A,N/A,N/A,503,49.87,4.30,4.70,"Cash"
+5.40,18.20,N/A,N/A,N/A,N/A,586,22.67,4.20,4.20,"UPI"
+8.10,N/A,N/A,1,"Customer related issue",N/A,N/A,N/A,N/A,N/A,N/A
+7.40,N/A,N/A,1,"The customer was coughing/sick",N/A,N/A,N/A,N/A,N/A,N/A
+11.50,25.40,N/A,N/A,N/A,N/A,236,45.17,4.60,3.00,"UPI"
+11.60,28.40,N/A,N/A,N/A,N/A,73,23.07,4.60,4.20,"UPI"
+3.10,44.80,N/A,N/A,N/A,N/A,355,4.08,4.70,3.10,"Cash"
+11.10,23.60,N/A,N/A,N/A,N/A,663,41.97,3.90,4.10,"UPI"
+2.60,39.60,N/A,N/A,N/A,N/A,886,38.82,4.20,4.30,"UPI"
+7.20,37.70,N/A,N/A,N/A,N/A,292,30.40,4.20,3.70,"Cash"
+2.00,37.30,N/A,N/A,N/A,N/A,564,19.78,4.40,4.20,"UPI"
+8.70,N/A,N/A,1,"More than permitted people in there",N/A,N/A,N/A,N/A,N/A,N/A
+11.30,39.80,N/A,N/A,N/A,N/A,619,47.20,4.20,4.30,"Cash"
+2.70,28.40,N/A,N/A,N/A,N/A,963,17.43,4.80,3.80,"Uber Wallet"
+4.80,33.60,N/A,N/A,N/A,N/A,427,14.43,4.10,4.60,"UPI"
+4.40,42.40,N/A,N/A,N/A,N/A,60,22.92,4.60,3.70,"Cash"
+8.00,29.00,N/A,N/A,N/A,N/A,697,32.15,3.20,3.90,"Debit Card"
+8.10,35.40,N/A,N/A,N/A,N/A,953,43.08,4.60,4.90,"UPI"
+5.90,37.30,N/A,N/A,N/A,N/A,342,48.91,4.00,4.80,"Cash"
+9.80,N/A,N/A,1,"Customer related issue",N/A,N/A,N/A,N/A,N/A,N/A
+7.00,17.90,N/A,N/A,N/A,N/A,935,32.46,4.40,3.90,"Uber Wallet"
+6.10,24.00,N/A,N/A,N/A,N/A,566,11.44,4.80,3.70,"Debit Card"
+9.60,34.60,N/A,N/A,N/A,N/A,459,42.18,3.70,3.70,"Credit Card"
+13.30,N/A,1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+11.10,N/A,N/A,1,"More than permitted people in there",N/A,N/A,N/A,N/A,N/A,N/A
+5.20,18.30,N/A,N/A,N/A,N/A,401,40.16,4.10,4.20,"UPI"
+4.70,34.80,N/A,N/A,N/A,N/A,509,4.01,4.30,4.90,"Cash"
+9.80,N/A,N/A,1,"Customer related issue",N/A,N/A,N/A,N/A,N/A,N/A
+10.30,41.20,N/A,N/A,N/A,N/A,905,15.59,4.90,4.60,"UPI"
+10.80,16.50,N/A,N/A,N/A,N/A,312,47.72,4.70,4.20,"Cash"
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+11.60,20.90,N/A,N/A,N/A,N/A,103,34.36,4.20,4.60,"UPI"
+7.40,16.00,N/A,N/A,N/A,N/A,425,11.93,4.20,4.30,"Cash"
+11.30,44.80,N/A,N/A,N/A,N/A,309,42.82,4.30,4.70,"UPI"
+8.10,22.60,N/A,N/A,N/A,1,103,12.63,N/A,N/A,"UPI"
+8.00,23.60,N/A,N/A,N/A,N/A,379,43.14,4.30,3.90,"UPI"
+6.40,N/A,N/A,1,"Personal & Car related issues",N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+9.60,39.80,N/A,N/A,N/A,N/A,623,40.59,4.30,3.80,"UPI"
+14.30,19.60,N/A,N/A,N/A,N/A,743,20.32,4.40,5.00,"Cash"
+2.10,23.10,N/A,N/A,N/A,N/A,647,48.80,4.40,4.30,"Uber Wallet"
+14.10,N/A,1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+7.30,30.10,N/A,N/A,N/A,N/A,1364,42.16,3.40,3.30,"Cash"
+7.60,N/A,N/A,1,"Customer related issue",N/A,N/A,N/A,N/A,N/A,N/A
+6.80,N/A,N/A,1,"Personal & Car related issues",N/A,N/A,N/A,N/A,N/A,N/A
+3.60,24.80,N/A,N/A,N/A,N/A,890,47.98,3.60,4.70,"UPI"
+5.10,44.00,N/A,N/A,N/A,N/A,162,46.78,3.80,3.20,"Cash"
+14.60,42.30,N/A,N/A,N/A,N/A,242,27.68,4.30,4.50,"Debit Card"
+2.90,44.70,N/A,N/A,N/A,N/A,342,27.62,4.60,4.50,"UPI"
+5.20,26.20,N/A,N/A,N/A,N/A,316,17.92,4.00,4.70,"UPI"
+2.70,34.60,N/A,N/A,N/A,N/A,1286,30.53,4.50,4.20,"Uber Wallet"
+6.30,N/A,N/A,1,"The customer was coughing/sick",N/A,N/A,N/A,N/A,N/A,N/A
+2.50,18.90,N/A,N/A,N/A,1,274,14.78,N/A,N/A,"Credit Card"
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+6.60,29.80,N/A,N/A,N/A,N/A,689,45.97,3.90,4.90,"UPI"
+5.00,N/A,N/A,1,"More than permitted people in there",N/A,N/A,N/A,N/A,N/A,N/A
+8.40,N/A,N/A,1,"Customer related issue",N/A,N/A,N/A,N/A,N/A,N/A
+4.70,15.60,N/A,N/A,N/A,N/A,504,24.06,4.70,5.00,"Uber Wallet"
+10.80,17.60,N/A,N/A,N/A,N/A,231,9.44,4.10,4.50,"Uber Wallet"
+15.00,29.10,N/A,N/A,N/A,N/A,824,24.98,4.40,4.20,"UPI"
+12.50,15.40,N/A,N/A,N/A,N/A,478,10.78,3.90,4.90,"Uber Wallet"
+6.90,29.70,N/A,N/A,N/A,N/A,432,40.59,4.40,4.30,"Debit Card"
+6.60,19.10,N/A,N/A,N/A,N/A,606,5.75,4.20,4.60,"UPI"
+7.50,18.10,N/A,N/A,N/A,N/A,328,42.66,3.40,4.90,"UPI"
+14.90,N/A,1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+2.90,38.30,N/A,N/A,N/A,N/A,156,36.13,4.30,4.30,"UPI"
+9.40,36.30,N/A,N/A,N/A,N/A,105,44.08,4.70,4.90,"Credit Card"
+11.30,N/A,N/A,1,"More than permitted people in there",N/A,N/A,N/A,N/A,N/A,N/A
+16.90,N/A,1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+11.20,22.00,N/A,N/A,N/A,N/A,213,35.76,4.80,4.60,"Debit Card"
+11.20,19.60,N/A,N/A,N/A,N/A,620,45.00,4.60,3.10,"Cash"
+6.80,N/A,N/A,1,"The customer was coughing/sick",N/A,N/A,N/A,N/A,N/A,N/A
+11.60,21.90,N/A,N/A,N/A,N/A,83,45.07,3.90,4.20,"Credit Card"
+9.70,N/A,N/A,1,"More than permitted people in there",N/A,N/A,N/A,N/A,N/A,N/A
+7.60,41.60,N/A,N/A,N/A,N/A,821,3.86,3.70,4.90,"Uber Wallet"
+16.20,N/A,1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+4.80,44.80,N/A,N/A,N/A,N/A,176,49.18,3.10,4.60,"UPI"
+6.60,21.90,N/A,N/A,N/A,1,315,7.41,N/A,N/A,"UPI"
+8.30,18.70,N/A,N/A,N/A,N/A,82,14.49,4.60,4.20,"UPI"
+14.80,40.40,N/A,N/A,N/A,N/A,221,15.30,4.10,4.50,"UPI"
+6.10,N/A,1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+9.10,N/A,N/A,1,"Customer related issue",N/A,N/A,N/A,N/A,N/A,N/A
+5.00,N/A,N/A,1,"Customer related issue",N/A,N/A,N/A,N/A,N/A,N/A
+14.10,30.20,N/A,N/A,N/A,N/A,901,15.53,4.40,4.60,"Uber Wallet"
+4.80,24.70,N/A,N/A,N/A,N/A,1523,6.84,4.00,4.30,"UPI"
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+9.10,21.70,N/A,N/A,N/A,N/A,582,27.22,3.50,4.30,"Cash"
+3.60,18.60,N/A,N/A,N/A,N/A,133,31.65,3.20,4.40,"UPI"
+6.80,21.00,N/A,N/A,N/A,N/A,508,38.25,3.20,5.00,"Credit Card"
+9.50,N/A,1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+5.00,22.00,N/A,N/A,N/A,N/A,999,12.14,4.40,4.60,"Uber Wallet"
+11.00,25.80,N/A,N/A,N/A,N/A,713,9.76,4.30,4.10,"UPI"
+14.30,35.20,N/A,N/A,N/A,N/A,96,10.63,4.70,4.50,"UPI"
+11.40,36.80,N/A,N/A,N/A,N/A,595,15.32,4.60,5.00,"UPI"
+4.80,N/A,N/A,1,"The customer was coughing/sick",N/A,N/A,N/A,N/A,N/A,N/A
+12.20,20.50,N/A,N/A,N/A,N/A,256,8.76,4.50,5.00,"Debit Card"
+11.80,37.20,N/A,N/A,N/A,N/A,449,22.40,4.90,4.50,"Uber Wallet"
+7.80,N/A,N/A,1,"Customer related issue",N/A,N/A,N/A,N/A,N/A,N/A
+13.40,40.00,N/A,N/A,N/A,N/A,373,12.73,4.60,4.20,"Cash"
+2.40,38.50,N/A,N/A,N/A,N/A,445,28.77,4.20,4.20,"UPI"
+7.40,20.60,N/A,N/A,N/A,N/A,1563,8.86,4.70,4.60,"Cash"
+4.10,N/A,N/A,1,"Personal & Car related issues",N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+12.20,35.30,N/A,N/A,N/A,N/A,486,30.28,4.60,4.80,"Debit Card"
+4.30,33.10,N/A,N/A,N/A,N/A,480,40.38,4.20,3.70,"Cash"
+11.10,26.50,N/A,N/A,N/A,N/A,162,45.56,3.60,4.30,"Credit Card"
+7.10,34.00,N/A,N/A,N/A,N/A,964,47.18,4.60,4.60,"Debit Card"
+3.00,29.10,N/A,N/A,N/A,N/A,68,46.93,3.30,4.90,"Cash"
+9.80,N/A,N/A,1,"The customer was coughing/sick",N/A,N/A,N/A,N/A,N/A,N/A
+3.50,22.70,N/A,N/A,N/A,N/A,77,43.81,4.50,4.80,"Uber Wallet"
+6.20,20.60,N/A,N/A,N/A,N/A,1596,38.53,4.60,4.50,"Debit Card"
+7.40,N/A,N/A,1,"The customer was coughing/sick",N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+9.90,26.60,N/A,N/A,N/A,N/A,983,33.61,3.70,4.60,"Cash"
+3.00,29.40,N/A,N/A,N/A,N/A,68,24.62,5.00,3.70,"Cash"
+11.60,32.00,N/A,N/A,N/A,N/A,493,33.80,4.90,4.20,"UPI"
+5.80,N/A,N/A,1,"Personal & Car related issues",N/A,N/A,N/A,N/A,N/A,N/A
+3.20,44.40,N/A,N/A,N/A,N/A,745,32.09,4.60,4.30,"Credit Card"
+6.90,N/A,N/A,1,"Customer related issue",N/A,N/A,N/A,N/A,N/A,N/A
+14.50,40.40,N/A,N/A,N/A,N/A,304,13.99,4.80,4.50,"Uber Wallet"
+4.70,N/A,N/A,1,"Personal & Car related issues",N/A,N/A,N/A,N/A,N/A,N/A
+9.00,17.10,N/A,N/A,N/A,N/A,402,14.13,4.60,4.10,"UPI"
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+12.70,36.50,N/A,N/A,N/A,N/A,320,34.86,5.00,4.50,"Cash"
+9.20,34.60,N/A,N/A,N/A,N/A,1247,43.94,4.50,3.10,"Uber Wallet"
+6.10,29.00,N/A,N/A,N/A,N/A,358,24.56,3.60,3.80,"UPI"
+5.50,31.60,N/A,N/A,N/A,N/A,86,32.14,4.60,4.60,"UPI"
+10.40,N/A,N/A,1,"More than permitted people in there",N/A,N/A,N/A,N/A,N/A,N/A
+6.30,N/A,1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+2.80,16.80,N/A,N/A,N/A,N/A,85,43.31,4.60,4.90,"Uber Wallet"
+4.20,41.70,N/A,N/A,N/A,N/A,311,30.94,4.30,4.60,"UPI"
+7.60,N/A,N/A,1,"Customer related issue",N/A,N/A,N/A,N/A,N/A,N/A
+5.30,24.90,N/A,N/A,N/A,1,98,7.87,N/A,N/A,"Cash"
+11.40,26.30,N/A,N/A,N/A,N/A,130,15.24,4.30,4.60,"Uber Wallet"
+10.20,20.50,N/A,N/A,N/A,N/A,367,27.38,4.20,4.20,"Uber Wallet"
+7.40,28.70,N/A,N/A,N/A,N/A,420,4.50,4.60,4.20,"UPI"
+8.70,19.40,N/A,N/A,N/A,N/A,510,9.87,4.90,4.90,"UPI"
+10.00,25.40,N/A,N/A,N/A,N/A,83,16.50,4.40,4.30,"UPI"
+4.50,15.10,N/A,N/A,N/A,N/A,158,41.88,3.00,4.80,"UPI"
+11.30,33.00,N/A,N/A,N/A,N/A,1211,32.90,4.20,4.60,"Uber Wallet"
+13.70,35.90,N/A,N/A,N/A,N/A,313,36.68,4.20,4.50,"Credit Card"
+8.10,42.20,N/A,N/A,N/A,N/A,97,20.38,4.20,4.50,"Credit Card"
+10.30,26.40,N/A,N/A,N/A,N/A,142,47.20,4.60,4.60,"UPI"
+4.80,15.50,N/A,N/A,N/A,N/A,257,10.02,4.00,4.70,"Credit Card"
+9.40,34.10,N/A,N/A,N/A,N/A,110,2.99,4.50,4.80,"UPI"
+4.30,N/A,N/A,1,"Customer related issue",N/A,N/A,N/A,N/A,N/A,N/A
+2.90,40.20,N/A,N/A,N/A,N/A,585,31.32,4.50,3.90,"UPI"
+7.40,31.30,N/A,N/A,N/A,N/A,697,36.64,3.90,4.70,"Credit Card"
+7.80,32.60,N/A,N/A,N/A,N/A,1240,47.01,4.40,4.40,"UPI"
+5.10,N/A,N/A,1,"Customer related issue",N/A,N/A,N/A,N/A,N/A,N/A
+5.10,N/A,1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+9.40,20.60,N/A,N/A,N/A,N/A,777,15.11,4.10,4.40,"Debit Card"
+11.00,31.10,N/A,N/A,N/A,N/A,95,38.26,4.20,4.70,"Cash"
+11.60,39.90,N/A,N/A,N/A,N/A,484,47.12,4.30,4.90,"Uber Wallet"
+8.00,11.00,N/A,N/A,N/A,1,301,9.59,N/A,N/A,"Cash"
+2.10,21.20,N/A,N/A,N/A,N/A,485,2.17,3.20,4.10,"UPI"
+2.90,19.20,N/A,N/A,N/A,N/A,76,42.90,4.70,4.50,"UPI"
+8.30,38.60,N/A,N/A,N/A,N/A,188,35.09,4.60,4.10,"UPI"
+5.20,N/A,N/A,1,"Personal & Car related issues",N/A,N/A,N/A,N/A,N/A,N/A
+12.00,38.00,N/A,N/A,N/A,N/A,443,45.58,4.60,4.60,"Debit Card"
+9.20,N/A,N/A,1,"The customer was coughing/sick",N/A,N/A,N/A,N/A,N/A,N/A
+5.60,N/A,N/A,1,"The customer was coughing/sick",N/A,N/A,N/A,N/A,N/A,N/A
+5.00,19.20,N/A,N/A,N/A,N/A,144,34.44,4.70,4.60,"Uber Wallet"
+9.20,N/A,N/A,1,"More than permitted people in there",N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+3.50,14.80,N/A,N/A,N/A,1,268,7.21,N/A,N/A,"UPI"
+5.20,32.10,N/A,N/A,N/A,N/A,118,14.30,4.20,3.00,"Uber Wallet"
+9.90,17.60,N/A,N/A,N/A,N/A,516,13.30,4.10,4.70,"Cash"
+3.70,N/A,N/A,1,"Personal & Car related issues",N/A,N/A,N/A,N/A,N/A,N/A
+7.30,N/A,N/A,1,"Personal & Car related issues",N/A,N/A,N/A,N/A,N/A,N/A
+5.30,36.70,N/A,N/A,N/A,N/A,600,22.68,4.00,4.30,"UPI"
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+7.60,N/A,N/A,1,"More than permitted people in there",N/A,N/A,N/A,N/A,N/A,N/A
+19.20,N/A,1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+8.10,24.10,N/A,N/A,N/A,N/A,339,20.88,4.70,3.00,"Cash"
+5.30,N/A,N/A,1,"Customer related issue",N/A,N/A,N/A,N/A,N/A,N/A
+14.90,15.00,N/A,N/A,N/A,N/A,533,28.23,3.40,4.60,"Cash"
+13.30,30.80,N/A,N/A,N/A,N/A,884,14.57,4.30,4.70,"UPI"
+8.80,15.60,N/A,N/A,N/A,N/A,446,6.69,4.40,4.30,"Cash"
+11.70,30.70,N/A,N/A,N/A,N/A,675,10.62,4.20,4.10,"Credit Card"
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+3.90,25.20,N/A,N/A,N/A,N/A,407,19.99,3.70,4.90,"UPI"
+18.00,N/A,1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+14.90,25.80,N/A,N/A,N/A,N/A,219,12.04,3.70,4.30,"Cash"
+3.80,15.50,N/A,N/A,N/A,N/A,811,43.29,4.20,5.00,"UPI"
+13.30,43.00,N/A,N/A,N/A,N/A,169,3.00,3.90,4.90,"Uber Wallet"
+4.90,41.40,N/A,N/A,N/A,N/A,379,28.36,3.50,4.20,"Cash"
+7.30,29.70,N/A,N/A,N/A,1,465,13.04,N/A,N/A,"Credit Card"
+7.90,N/A,N/A,1,"Personal & Car related issues",N/A,N/A,N/A,N/A,N/A,N/A
+5.90,26.50,N/A,N/A,N/A,N/A,160,5.52,4.40,4.10,"UPI"
+5.90,27.90,N/A,N/A,N/A,N/A,153,11.93,4.40,4.90,"UPI"
+9.60,N/A,N/A,1,"Personal & Car related issues",N/A,N/A,N/A,N/A,N/A,N/A
+9.70,N/A,N/A,1,"Personal & Car related issues",N/A,N/A,N/A,N/A,N/A,N/A
+9.10,N/A,N/A,1,"The customer was coughing/sick",N/A,N/A,N/A,N/A,N/A,N/A
+10.00,N/A,N/A,1,"The customer was coughing/sick",N/A,N/A,N/A,N/A,N/A,N/A
+4.60,24.70,N/A,N/A,N/A,N/A,369,8.80,4.30,3.70,"UPI"
+14.00,17.90,N/A,N/A,N/A,N/A,360,19.20,4.40,3.80,"Uber Wallet"
+2.10,31.70,N/A,N/A,N/A,N/A,828,28.84,5.00,4.10,"UPI"
+12.10,19.70,N/A,N/A,N/A,N/A,791,33.08,4.90,4.90,"UPI"
+10.50,18.00,N/A,N/A,N/A,N/A,529,10.88,5.00,4.90,"UPI"
+9.70,36.40,N/A,N/A,N/A,N/A,306,43.40,4.40,4.90,"UPI"
+3.30,25.80,N/A,N/A,N/A,N/A,131,15.83,3.10,4.30,"Credit Card"
+5.10,23.20,N/A,N/A,N/A,N/A,651,9.61,4.70,4.60,"Debit Card"
+2.90,30.10,N/A,N/A,N/A,N/A,412,2.69,4.80,3.70,"Debit Card"
+6.90,N/A,N/A,1,"The customer was coughing/sick",N/A,N/A,N/A,N/A,N/A,N/A
+6.60,33.90,N/A,N/A,N/A,N/A,984,12.52,3.90,4.60,"Cash"
+12.40,31.70,N/A,N/A,N/A,N/A,375,27.76,4.00,3.60,"UPI"
+7.00,N/A,N/A,1,"More than permitted people in there",N/A,N/A,N/A,N/A,N/A,N/A
+5.10,N/A,N/A,1,"More than permitted people in there",N/A,N/A,N/A,N/A,N/A,N/A
+9.70,31.70,N/A,N/A,N/A,N/A,651,7.70,4.30,3.90,"Uber Wallet"
+8.20,37.30,N/A,N/A,N/A,N/A,415,23.21,4.60,4.60,"Uber Wallet"
+8.50,N/A,N/A,1,"Personal & Car related issues",N/A,N/A,N/A,N/A,N/A,N/A
+11.40,N/A,1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+7.20,N/A,N/A,1,"More than permitted people in there",N/A,N/A,N/A,N/A,N/A,N/A
+4.70,N/A,N/A,1,"The customer was coughing/sick",N/A,N/A,N/A,N/A,N/A,N/A
+3.40,43.30,N/A,N/A,N/A,N/A,727,29.21,4.60,4.70,"UPI"
+3.40,N/A,N/A,1,"Customer related issue",N/A,N/A,N/A,N/A,N/A,N/A
+13.10,15.20,N/A,N/A,N/A,N/A,302,30.45,4.20,4.20,"UPI"
+7.60,N/A,1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+8.70,N/A,N/A,1,"The customer was coughing/sick",N/A,N/A,N/A,N/A,N/A,N/A
+6.30,N/A,N/A,1,"The customer was coughing/sick",N/A,N/A,N/A,N/A,N/A,N/A
+6.50,N/A,1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+5.40,16.80,N/A,N/A,N/A,N/A,392,2.09,3.40,4.90,"UPI"
+7.90,N/A,N/A,1,"Personal & Car related issues",N/A,N/A,N/A,N/A,N/A,N/A
+10.90,N/A,1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+2.70,42.80,N/A,N/A,N/A,N/A,1052,43.22,4.80,4.80,"Cash"
+11.60,N/A,N/A,1,"The customer was coughing/sick",N/A,N/A,N/A,N/A,N/A,N/A
+13.30,35.80,N/A,N/A,N/A,N/A,921,48.69,3.80,4.60,"Uber Wallet"
+3.90,25.60,N/A,N/A,N/A,N/A,189,25.96,4.60,5.00,"Credit Card"
+7.30,22.10,N/A,N/A,N/A,1,314,18.89,N/A,N/A,"Debit Card"
+9.60,24.70,N/A,N/A,N/A,N/A,115,19.14,4.60,4.80,"Cash"
+7.90,33.80,N/A,N/A,N/A,N/A,670,15.33,4.20,4.20,"Credit Card"
+12.30,35.30,N/A,N/A,N/A,N/A,751,27.13,4.60,4.90,"UPI"
+11.60,15.60,N/A,N/A,N/A,N/A,517,16.32,4.30,4.50,"UPI"
+3.30,42.60,N/A,N/A,N/A,N/A,928,18.13,5.00,4.60,"Cash"
+6.40,38.50,N/A,N/A,N/A,N/A,336,27.52,4.00,4.20,"UPI"
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+15.00,44.50,N/A,N/A,N/A,N/A,476,4.96,4.40,4.40,"Cash"
+10.20,N/A,N/A,1,"More than permitted people in there",N/A,N/A,N/A,N/A,N/A,N/A
+13.90,17.90,N/A,N/A,N/A,N/A,104,12.29,3.20,4.90,"Cash"
+10.70,43.10,N/A,N/A,N/A,N/A,579,7.29,4.50,4.50,"UPI"
+11.00,41.60,N/A,N/A,N/A,N/A,181,44.75,4.40,4.40,"Cash"
+4.30,23.60,N/A,N/A,N/A,N/A,1727,46.07,5.00,4.40,"Credit Card"
+4.40,N/A,N/A,1,"Customer related issue",N/A,N/A,N/A,N/A,N/A,N/A
+11.40,N/A,N/A,1,"Personal & Car related issues",N/A,N/A,N/A,N/A,N/A,N/A
+11.60,20.40,N/A,N/A,N/A,N/A,339,22.75,4.20,5.00,"Cash"
+6.70,23.60,N/A,N/A,N/A,N/A,833,31.30,4.30,4.10,"Uber Wallet"
+5.80,42.40,N/A,N/A,N/A,N/A,221,11.62,4.20,4.80,"UPI"
+11.70,N/A,N/A,1,"Personal & Car related issues",N/A,N/A,N/A,N/A,N/A,N/A
+11.30,23.00,N/A,N/A,N/A,N/A,368,27.19,4.20,4.30,"UPI"
+13.00,35.40,N/A,N/A,N/A,N/A,770,10.34,4.40,3.90,"UPI"
+3.30,19.20,N/A,N/A,N/A,N/A,140,5.24,4.30,4.70,"UPI"
+13.90,19.80,N/A,N/A,N/A,N/A,249,31.52,4.10,4.00,"UPI"
+4.60,40.60,N/A,N/A,N/A,N/A,163,19.44,4.10,4.30,"Cash"
+6.70,31.30,N/A,N/A,N/A,N/A,1764,32.47,4.30,4.10,"Cash"
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+8.20,21.60,N/A,N/A,N/A,N/A,354,39.56,3.30,4.30,"Cash"
+8.80,N/A,N/A,1,"More than permitted people in there",N/A,N/A,N/A,N/A,N/A,N/A
+6.50,N/A,N/A,1,"More than permitted people in there",N/A,N/A,N/A,N/A,N/A,N/A
+14.40,16.00,N/A,N/A,N/A,N/A,124,33.54,3.70,3.70,"UPI"
+14.60,25.50,N/A,N/A,N/A,N/A,537,6.69,4.70,4.60,"UPI"
+12.70,32.40,N/A,N/A,N/A,N/A,1316,20.15,4.30,4.30,"UPI"
+6.30,17.30,N/A,N/A,N/A,1,328,8.40,N/A,N/A,"UPI"
+9.80,N/A,1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+14.80,23.50,N/A,N/A,N/A,N/A,733,21.07,4.30,4.50,"Cash"
+9.00,N/A,N/A,1,"The customer was coughing/sick",N/A,N/A,N/A,N/A,N/A,N/A
+4.50,34.20,N/A,N/A,N/A,N/A,298,12.52,4.40,4.60,"Debit Card"
+4.90,39.20,N/A,N/A,N/A,N/A,858,43.87,3.30,4.50,"UPI"
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+6.10,43.80,N/A,N/A,N/A,N/A,467,32.54,4.10,4.50,"UPI"
+7.60,19.50,N/A,N/A,N/A,N/A,823,16.85,4.20,5.00,"Uber Wallet"
+8.40,37.10,N/A,N/A,N/A,N/A,413,30.16,3.10,4.30,"UPI"
+9.20,24.30,N/A,N/A,N/A,N/A,432,46.99,4.20,4.60,"Cash"
+5.30,35.80,N/A,N/A,N/A,N/A,455,30.43,3.20,4.30,"UPI"
+9.10,N/A,1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+5.40,N/A,N/A,1,"Personal & Car related issues",N/A,N/A,N/A,N/A,N/A,N/A
+4.80,38.60,N/A,N/A,N/A,N/A,450,42.68,4.20,4.00,"UPI"
+12.20,34.00,N/A,N/A,N/A,N/A,770,20.76,4.00,4.20,"UPI"
+9.80,43.50,N/A,N/A,N/A,N/A,875,6.58,4.70,4.30,"UPI"
+14.00,17.70,N/A,N/A,N/A,N/A,141,16.41,4.30,5.00,"Cash"
+6.10,23.20,N/A,N/A,N/A,N/A,212,10.89,4.40,4.70,"Cash"
+11.50,N/A,N/A,1,"Personal & Car related issues",N/A,N/A,N/A,N/A,N/A,N/A
+8.90,19.20,N/A,N/A,N/A,N/A,630,49.26,4.10,4.00,"Cash"
+6.50,32.80,N/A,N/A,N/A,N/A,263,46.60,4.60,4.30,"Cash"
+12.20,36.10,N/A,N/A,N/A,N/A,807,16.76,3.00,4.60,"Uber Wallet"
+4.30,19.80,N/A,N/A,N/A,N/A,418,45.71,4.70,4.70,"UPI"
+11.10,16.50,N/A,N/A,N/A,N/A,268,8.34,3.40,4.30,"Cash"
+6.00,N/A,N/A,1,"The customer was coughing/sick",N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+8.90,21.20,N/A,N/A,N/A,1,953,4.60,N/A,N/A,"UPI"
+10.60,41.90,N/A,N/A,N/A,N/A,773,48.84,3.90,4.80,"Uber Wallet"
+11.60,N/A,N/A,1,"Personal & Car related issues",N/A,N/A,N/A,N/A,N/A,N/A
+9.10,29.00,N/A,N/A,N/A,N/A,137,34.83,4.70,4.40,"UPI"
+9.90,41.10,N/A,N/A,N/A,N/A,215,27.67,4.30,4.30,"Debit Card"
+11.00,37.50,N/A,N/A,N/A,N/A,113,21.68,4.30,3.70,"UPI"
+12.70,N/A,1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+7.20,18.30,N/A,N/A,N/A,N/A,343,5.27,4.40,4.80,"Uber Wallet"
+2.70,26.30,N/A,N/A,N/A,N/A,477,2.65,4.30,4.40,"UPI"
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+14.10,29.00,N/A,N/A,N/A,N/A,523,15.33,4.50,4.50,"Cash"
+9.60,17.10,N/A,N/A,N/A,N/A,601,48.96,4.20,4.20,"UPI"
+3.60,21.90,N/A,N/A,N/A,1,698,5.11,N/A,N/A,"Debit Card"
+4.60,22.70,N/A,N/A,N/A,N/A,2145,35.76,4.30,4.50,"Debit Card"
+7.70,44.20,N/A,N/A,N/A,N/A,313,36.19,4.60,4.30,"UPI"
+10.90,N/A,N/A,1,"More than permitted people in there",N/A,N/A,N/A,N/A,N/A,N/A
+12.20,19.50,N/A,N/A,N/A,N/A,480,18.15,4.40,4.50,"UPI"
+12.70,23.00,N/A,N/A,N/A,N/A,953,18.58,3.80,4.40,"Debit Card"
+13.00,N/A,1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+11.90,18.90,N/A,N/A,N/A,N/A,440,43.05,3.70,4.80,"Cash"
+14.90,24.80,N/A,N/A,N/A,N/A,62,42.69,3.80,4.30,"Cash"
+6.30,N/A,N/A,1,"Personal & Car related issues",N/A,N/A,N/A,N/A,N/A,N/A
+8.60,29.30,N/A,N/A,N/A,N/A,244,48.98,4.10,3.90,"UPI"
+7.10,36.80,N/A,N/A,N/A,N/A,375,37.90,4.30,4.60,"Cash"
+4.30,17.70,N/A,N/A,N/A,N/A,499,49.30,3.40,4.90,"UPI"
+7.70,N/A,1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+8.80,15.90,N/A,N/A,N/A,N/A,296,18.49,4.30,4.90,"UPI"
+20.00,N/A,1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+3.90,19.90,N/A,N/A,N/A,N/A,167,33.22,3.10,3.60,"Credit Card"
+10.40,N/A,N/A,1,"Personal & Car related issues",N/A,N/A,N/A,N/A,N/A,N/A
+6.90,N/A,N/A,1,"Personal & Car related issues",N/A,N/A,N/A,N/A,N/A,N/A
+11.60,N/A,N/A,1,"More than permitted people in there",N/A,N/A,N/A,N/A,N/A,N/A
+13.70,19.70,N/A,N/A,N/A,N/A,824,2.38,4.00,4.70,"UPI"
+4.90,37.10,N/A,N/A,N/A,N/A,407,34.20,4.70,4.40,"Cash"
+7.60,19.80,N/A,N/A,N/A,N/A,752,3.59,3.10,4.20,"Uber Wallet"
+9.70,41.90,N/A,N/A,N/A,N/A,354,30.56,4.50,4.60,"UPI"
+14.30,24.40,N/A,N/A,N/A,N/A,164,13.69,3.60,4.90,"UPI"
+11.50,16.60,N/A,N/A,N/A,N/A,392,45.56,4.10,4.60,"UPI"
+7.90,N/A,N/A,1,"More than permitted people in there",N/A,N/A,N/A,N/A,N/A,N/A
+9.30,28.70,N/A,N/A,N/A,N/A,389,42.16,4.50,4.30,"Credit Card"
+5.40,33.10,N/A,N/A,N/A,N/A,474,38.28,4.60,3.50,"UPI"
+11.90,N/A,N/A,1,"More than permitted people in there",N/A,N/A,N/A,N/A,N/A,N/A
+7.80,43.20,N/A,N/A,N/A,N/A,199,31.51,4.70,5.00,"UPI"
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+14.90,16.90,N/A,N/A,N/A,N/A,1428,42.45,4.40,4.20,"Uber Wallet"
+8.80,26.80,N/A,N/A,N/A,N/A,85,16.06,3.90,4.60,"Cash"
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+9.50,22.50,N/A,N/A,N/A,N/A,550,38.24,4.50,4.50,"UPI"
+12.20,20.50,N/A,N/A,N/A,N/A,988,22.13,4.20,4.60,"UPI"
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+3.30,32.10,N/A,N/A,N/A,N/A,112,20.08,3.30,4.90,"Cash"
+4.70,N/A,N/A,1,"The customer was coughing/sick",N/A,N/A,N/A,N/A,N/A,N/A
+13.50,29.70,N/A,N/A,N/A,N/A,81,45.98,3.50,3.80,"UPI"
+3.70,42.80,N/A,N/A,N/A,N/A,262,10.94,4.20,4.20,"UPI"
+10.40,31.00,N/A,N/A,N/A,N/A,259,49.84,3.80,4.30,"Uber Wallet"
+8.80,33.10,N/A,N/A,N/A,N/A,1350,24.97,4.70,3.10,"Cash"
+14.30,23.90,N/A,N/A,N/A,N/A,302,32.94,4.60,4.70,"Cash"
+6.20,23.10,N/A,N/A,N/A,N/A,414,22.90,4.80,4.80,"UPI"
+2.90,25.10,N/A,N/A,N/A,N/A,135,29.53,4.20,4.30,"Cash"
+12.30,21.40,N/A,N/A,N/A,N/A,212,32.84,4.10,4.70,"Credit Card"
+13.20,32.60,N/A,N/A,N/A,N/A,865,3.77,4.10,4.40,"UPI"
+2.60,36.90,N/A,N/A,N/A,N/A,255,24.12,4.20,4.40,"UPI"
+5.60,32.60,N/A,N/A,N/A,N/A,273,38.01,4.10,4.20,"Credit Card"
+4.60,17.20,N/A,N/A,N/A,1,545,1.67,N/A,N/A,"UPI"
+4.60,27.30,N/A,N/A,N/A,N/A,477,14.39,4.30,3.60,"Credit Card"
+14.10,33.90,N/A,N/A,N/A,N/A,197,7.33,4.00,4.60,"UPI"
+12.80,23.70,N/A,N/A,N/A,N/A,366,38.63,4.30,4.10,"Credit Card"
+2.10,19.70,N/A,N/A,N/A,N/A,1595,42.13,4.40,4.40,"UPI"
+6.90,16.60,N/A,N/A,N/A,N/A,391,24.16,3.80,4.30,"Credit Card"
+2.60,27.90,N/A,N/A,N/A,N/A,313,33.08,4.70,4.20,"UPI"
+12.60,28.10,N/A,N/A,N/A,N/A,402,45.13,4.30,5.00,"UPI"
+4.00,30.10,N/A,N/A,N/A,N/A,62,14.15,4.70,4.30,"Cash"
+9.90,N/A,1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+13.70,37.20,N/A,N/A,N/A,N/A,602,9.90,4.90,3.70,"UPI"
+10.00,28.90,N/A,N/A,N/A,1,545,6.09,N/A,N/A,"UPI"
+13.40,27.80,N/A,N/A,N/A,N/A,560,25.68,4.30,4.50,"Cash"
+3.20,16.50,N/A,N/A,N/A,1,1383,5.41,N/A,N/A,"UPI"
+10.10,39.30,N/A,N/A,N/A,N/A,439,44.05,4.60,4.60,"Cash"
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+10.70,32.00,N/A,N/A,N/A,N/A,83,16.64,4.20,4.10,"Uber Wallet"
+5.50,13.20,N/A,N/A,N/A,1,745,9.56,N/A,N/A,"Cash"
+6.30,19.50,N/A,N/A,N/A,N/A,171,32.47,4.90,3.40,"Credit Card"
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+6.50,16.80,N/A,N/A,N/A,N/A,401,22.96,3.80,4.50,"Uber Wallet"
+8.30,N/A,N/A,1,"More than permitted people in there",N/A,N/A,N/A,N/A,N/A,N/A
+5.20,43.90,N/A,N/A,N/A,N/A,1320,39.70,4.90,4.90,"Debit Card"
+14.00,24.30,N/A,N/A,N/A,N/A,1614,34.50,4.30,4.30,"Debit Card"
+10.60,26.80,N/A,N/A,N/A,N/A,879,22.24,4.80,4.30,"Cash"
+5.40,19.00,N/A,N/A,N/A,N/A,218,23.13,4.80,4.50,"Cash"
+4.60,39.50,N/A,N/A,N/A,N/A,165,39.31,4.30,4.70,"Cash"
+12.50,23.20,N/A,N/A,N/A,N/A,221,49.17,3.70,4.30,"Cash"
+5.40,19.00,N/A,N/A,N/A,N/A,474,46.22,4.20,4.60,"Credit Card"
+8.80,N/A,N/A,1,"The customer was coughing/sick",N/A,N/A,N/A,N/A,N/A,N/A
+2.60,23.40,N/A,N/A,N/A,N/A,820,22.06,4.00,4.40,"UPI"
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+8.90,N/A,N/A,1,"Customer related issue",N/A,N/A,N/A,N/A,N/A,N/A
+7.50,40.00,N/A,N/A,N/A,N/A,358,23.98,4.30,5.00,"Cash"
+3.80,N/A,N/A,1,"More than permitted people in there",N/A,N/A,N/A,N/A,N/A,N/A
+4.00,36.40,N/A,N/A,N/A,N/A,489,45.72,4.70,4.90,"UPI"
+5.10,19.90,N/A,N/A,N/A,1,367,5.57,N/A,N/A,"UPI"
+8.00,16.90,N/A,N/A,N/A,1,1682,7.60,N/A,N/A,"Debit Card"
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+4.30,43.50,N/A,N/A,N/A,N/A,55,3.02,4.60,4.80,"Uber Wallet"
+17.60,N/A,1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+3.90,N/A,N/A,1,"The customer was coughing/sick",N/A,N/A,N/A,N/A,N/A,N/A
+4.80,29.30,N/A,N/A,N/A,N/A,395,14.95,4.50,4.20,"UPI"
+6.40,21.20,N/A,N/A,N/A,N/A,69,7.76,4.40,4.70,"Cash"
+10.60,N/A,1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+14.60,33.10,N/A,N/A,N/A,N/A,265,7.95,4.50,4.70,"Cash"
+7.60,N/A,N/A,1,"Customer related issue",N/A,N/A,N/A,N/A,N/A,N/A
+3.00,43.90,N/A,N/A,N/A,N/A,302,44.57,4.70,4.60,"UPI"
+14.30,23.90,N/A,N/A,N/A,N/A,464,10.81,4.10,4.40,"UPI"
+9.20,24.30,N/A,N/A,N/A,1,545,8.39,N/A,N/A,"Credit Card"
+2.70,30.70,N/A,N/A,N/A,N/A,224,24.44,4.20,4.20,"Cash"
+9.10,41.40,N/A,N/A,N/A,N/A,237,23.63,4.30,4.90,"UPI"
+10.70,36.70,N/A,N/A,N/A,N/A,699,48.74,4.30,4.40,"UPI"
+8.20,21.80,N/A,N/A,N/A,N/A,158,26.74,3.20,5.00,"Uber Wallet"
+14.10,N/A,1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+5.80,N/A,N/A,1,"More than permitted people in there",N/A,N/A,N/A,N/A,N/A,N/A
+7.30,36.50,N/A,N/A,N/A,N/A,202,37.39,3.70,4.20,"UPI"
+15.70,N/A,1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+9.30,17.30,N/A,N/A,N/A,N/A,798,13.98,4.70,4.40,"UPI"
+9.50,41.60,N/A,N/A,N/A,N/A,264,34.07,3.90,3.10,"Debit Card"
+10.90,18.80,N/A,N/A,N/A,N/A,324,43.53,4.40,4.70,"UPI"
+10.90,43.50,N/A,N/A,N/A,N/A,500,36.77,4.20,4.60,"UPI"
+9.40,44.90,N/A,N/A,N/A,N/A,440,28.46,4.30,3.60,"UPI"
+5.50,N/A,N/A,1,"The customer was coughing/sick",N/A,N/A,N/A,N/A,N/A,N/A
+12.10,37.70,N/A,N/A,N/A,N/A,460,33.84,4.10,4.50,"UPI"
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+9.50,29.20,N/A,N/A,N/A,1,374,11.17,N/A,N/A,"Credit Card"
+10.50,N/A,N/A,1,"Customer related issue",N/A,N/A,N/A,N/A,N/A,N/A
+12.30,37.90,N/A,N/A,N/A,N/A,1940,27.60,4.10,4.30,"Cash"
+2.60,35.30,N/A,N/A,N/A,N/A,1216,44.04,4.30,3.30,"UPI"
+10.30,33.30,N/A,N/A,N/A,N/A,187,40.04,4.30,4.20,"UPI"
+6.40,17.20,N/A,N/A,N/A,N/A,478,48.62,4.20,3.20,"UPI"
+3.20,34.40,N/A,N/A,N/A,N/A,791,6.07,4.10,4.00,"Credit Card"
+12.00,44.20,N/A,N/A,N/A,N/A,636,15.26,4.30,4.60,"UPI"
+2.10,17.30,N/A,N/A,N/A,N/A,499,36.76,4.60,4.20,"UPI"
+4.90,N/A,N/A,1,"The customer was coughing/sick",N/A,N/A,N/A,N/A,N/A,N/A
+5.30,N/A,N/A,1,"Personal & Car related issues",N/A,N/A,N/A,N/A,N/A,N/A
+10.90,37.70,N/A,N/A,N/A,N/A,1350,11.48,4.50,4.90,"Uber Wallet"
+2.90,31.80,N/A,N/A,N/A,N/A,461,12.59,4.40,4.70,"UPI"
+7.90,44.70,N/A,N/A,N/A,N/A,170,31.74,4.40,4.50,"Credit Card"
+7.20,N/A,N/A,1,"Personal & Car related issues",N/A,N/A,N/A,N/A,N/A,N/A
+7.00,N/A,N/A,1,"Personal & Car related issues",N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+10.80,37.80,N/A,N/A,N/A,N/A,558,38.70,4.20,4.90,"UPI"
+12.10,32.40,N/A,N/A,N/A,N/A,288,4.38,4.20,3.70,"UPI"
+10.00,N/A,1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+9.00,N/A,N/A,1,"Personal & Car related issues",N/A,N/A,N/A,N/A,N/A,N/A
+9.40,29.50,N/A,N/A,N/A,N/A,133,29.31,4.40,4.80,"Credit Card"
+12.50,28.50,N/A,N/A,N/A,N/A,123,2.35,3.90,4.60,"Cash"
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+3.30,30.30,N/A,N/A,N/A,N/A,629,41.18,4.20,4.20,"Uber Wallet"
+12.70,40.70,N/A,N/A,N/A,N/A,201,49.37,4.50,4.10,"Cash"
+3.80,29.70,N/A,N/A,N/A,N/A,419,38.83,3.80,4.30,"Cash"
+6.70,32.90,N/A,N/A,N/A,N/A,759,7.37,4.60,4.20,"Debit Card"
+14.70,29.50,N/A,N/A,N/A,N/A,399,48.69,4.20,4.70,"Credit Card"
+6.50,42.30,N/A,N/A,N/A,N/A,276,18.51,4.60,4.30,"UPI"
+3.30,25.70,N/A,N/A,N/A,N/A,1354,36.02,3.80,3.60,"Cash"
+13.30,16.00,N/A,N/A,N/A,N/A,529,7.92,3.20,4.10,"Debit Card"
+7.00,N/A,1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+3.50,N/A,N/A,1,"More than permitted people in there",N/A,N/A,N/A,N/A,N/A,N/A
+12.10,16.40,N/A,N/A,N/A,N/A,306,20.57,3.70,4.60,"UPI"
+7.10,38.20,N/A,N/A,N/A,N/A,535,49.73,4.50,4.90,"Cash"
+2.20,30.50,N/A,N/A,N/A,N/A,200,26.70,3.90,4.80,"Cash"
+10.70,17.10,N/A,N/A,N/A,N/A,362,38.89,4.40,4.80,"Credit Card"
+8.60,23.00,N/A,N/A,N/A,N/A,337,30.05,4.60,4.80,"Cash"
+5.60,41.70,N/A,N/A,N/A,N/A,558,26.69,4.10,4.30,"Cash"
+2.90,16.20,N/A,N/A,N/A,N/A,800,48.89,4.20,4.50,"UPI"
+11.30,24.10,N/A,N/A,N/A,N/A,654,49.07,4.90,3.90,"UPI"
+13.00,23.30,N/A,N/A,N/A,N/A,171,16.41,4.20,4.00,"UPI"
+7.10,25.40,N/A,N/A,N/A,N/A,471,49.85,4.80,4.50,"UPI"
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+8.80,N/A,N/A,1,"Customer related issue",N/A,N/A,N/A,N/A,N/A,N/A
+7.70,41.00,N/A,N/A,N/A,N/A,326,36.43,3.90,3.70,"UPI"
+4.60,21.00,N/A,N/A,N/A,N/A,142,12.32,4.50,4.60,"UPI"
+14.20,35.00,N/A,N/A,N/A,N/A,234,21.61,4.90,5.00,"Cash"
+8.80,20.80,N/A,N/A,N/A,1,483,3.88,N/A,N/A,"Uber Wallet"
+5.30,21.10,N/A,N/A,N/A,N/A,203,14.94,3.80,5.00,"UPI"
+5.20,18.70,N/A,N/A,N/A,N/A,1117,7.03,3.70,4.70,"UPI"
+2.30,16.50,N/A,N/A,N/A,N/A,394,37.69,4.90,4.40,"Cash"
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+8.00,16.90,N/A,N/A,N/A,N/A,354,41.21,4.60,4.80,"UPI"
+9.20,N/A,N/A,1,"More than permitted people in there",N/A,N/A,N/A,N/A,N/A,N/A
+10.10,24.90,N/A,N/A,N/A,N/A,184,29.02,3.70,4.10,"UPI"
+5.80,28.30,N/A,N/A,N/A,N/A,163,13.87,4.60,3.00,"Cash"
+9.90,36.10,N/A,N/A,N/A,N/A,221,41.05,4.60,4.10,"Debit Card"
+2.60,21.60,N/A,N/A,N/A,N/A,994,7.78,4.10,4.20,"Credit Card"
+12.30,43.20,N/A,N/A,N/A,N/A,266,36.27,3.90,4.50,"UPI"
+6.30,N/A,N/A,1,"More than permitted people in there",N/A,N/A,N/A,N/A,N/A,N/A
+6.20,N/A,N/A,1,"The customer was coughing/sick",N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+10.90,19.60,N/A,N/A,N/A,N/A,111,16.94,3.90,4.40,"Cash"
+3.50,28.00,N/A,N/A,N/A,N/A,442,38.08,4.60,4.30,"UPI"
+15.00,N/A,1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+15.00,24.20,N/A,N/A,N/A,N/A,169,7.46,4.50,4.10,"UPI"
+3.70,23.80,N/A,N/A,N/A,N/A,98,20.80,4.40,3.70,"Debit Card"
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+5.00,N/A,N/A,1,"The customer was coughing/sick",N/A,N/A,N/A,N/A,N/A,N/A
+13.70,29.00,N/A,N/A,N/A,N/A,1311,8.24,4.20,4.10,"UPI"
+3.70,34.20,N/A,N/A,N/A,N/A,805,28.75,3.40,4.20,"Uber Wallet"
+10.00,N/A,N/A,1,"The customer was coughing/sick",N/A,N/A,N/A,N/A,N/A,N/A
+5.20,N/A,1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+4.70,N/A,N/A,1,"Personal & Car related issues",N/A,N/A,N/A,N/A,N/A,N/A
+6.60,N/A,N/A,1,"Customer related issue",N/A,N/A,N/A,N/A,N/A,N/A
+5.80,35.60,N/A,N/A,N/A,N/A,396,30.69,3.10,4.60,"Uber Wallet"
+4.60,N/A,N/A,1,"Personal & Car related issues",N/A,N/A,N/A,N/A,N/A,N/A
+3.60,34.20,N/A,N/A,N/A,N/A,827,9.44,3.90,5.00,"Uber Wallet"
+6.60,37.00,N/A,N/A,N/A,N/A,269,11.46,3.20,4.80,"UPI"
+6.00,35.80,N/A,N/A,N/A,N/A,910,18.67,4.30,4.30,"Debit Card"
+9.30,37.50,N/A,N/A,N/A,N/A,215,44.66,3.80,4.50,"Credit Card"
+8.10,N/A,N/A,1,"The customer was coughing/sick",N/A,N/A,N/A,N/A,N/A,N/A
+12.80,28.70,N/A,N/A,N/A,N/A,613,28.50,4.20,4.40,"UPI"
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+9.10,16.20,N/A,N/A,N/A,N/A,393,9.39,3.70,4.20,"UPI"
+6.60,22.70,N/A,N/A,N/A,1,315,19.67,N/A,N/A,"Cash"
+12.00,28.10,N/A,N/A,N/A,N/A,64,45.95,4.60,4.60,"Credit Card"
+13.20,N/A,1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+7.10,N/A,N/A,1,"Customer related issue",N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+8.30,33.50,N/A,N/A,N/A,N/A,229,23.54,3.90,3.30,"UPI"
+11.80,16.50,N/A,N/A,N/A,N/A,200,37.57,5.00,4.80,"Cash"
+11.30,17.70,N/A,N/A,N/A,N/A,417,48.34,4.00,4.30,"Cash"
+7.20,N/A,N/A,1,"More than permitted people in there",N/A,N/A,N/A,N/A,N/A,N/A
+14.90,35.30,N/A,N/A,N/A,N/A,292,13.21,3.90,4.70,"UPI"
+11.50,15.10,N/A,N/A,N/A,N/A,1284,33.16,3.40,4.70,"Debit Card"
+5.20,N/A,1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+4.10,21.20,N/A,N/A,N/A,N/A,791,17.31,3.70,4.70,"UPI"
+2.00,42.20,N/A,N/A,N/A,N/A,304,37.93,4.30,4.20,"Cash"
+5.90,41.50,N/A,N/A,N/A,N/A,404,37.40,3.50,4.60,"Cash"
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+14.00,32.70,N/A,N/A,N/A,N/A,109,28.60,3.40,4.20,"Cash"
+14.70,15.40,N/A,N/A,N/A,N/A,506,38.66,4.60,5.00,"Cash"
+9.50,32.00,N/A,N/A,N/A,N/A,150,39.67,4.20,5.00,"Cash"
+10.60,N/A,N/A,1,"Customer related issue",N/A,N/A,N/A,N/A,N/A,N/A
+13.30,19.50,N/A,N/A,N/A,N/A,196,42.26,4.00,4.40,"UPI"
+4.50,N/A,N/A,1,"The customer was coughing/sick",N/A,N/A,N/A,N/A,N/A,N/A
+14.80,28.90,N/A,N/A,N/A,N/A,655,28.14,4.50,4.10,"UPI"
+7.90,21.10,N/A,N/A,N/A,1,789,12.12,N/A,N/A,"Cash"
+7.90,27.90,N/A,N/A,N/A,N/A,408,48.57,4.40,4.40,"UPI"
+12.60,41.50,N/A,N/A,N/A,N/A,397,30.58,3.80,4.60,"UPI"
+14.30,37.60,N/A,N/A,N/A,N/A,1079,18.74,4.70,4.00,"UPI"
+4.90,N/A,N/A,1,"More than permitted people in there",N/A,N/A,N/A,N/A,N/A,N/A
+10.70,26.50,N/A,N/A,N/A,N/A,247,42.88,4.30,4.30,"Cash"
+3.00,44.70,N/A,N/A,N/A,N/A,150,12.82,3.30,4.60,"UPI"
+14.90,27.20,N/A,N/A,N/A,N/A,532,18.48,3.70,4.10,"UPI"
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+5.30,20.20,N/A,N/A,N/A,N/A,79,9.14,4.30,4.90,"Credit Card"
+6.70,29.40,N/A,N/A,N/A,N/A,693,3.81,4.30,4.60,"UPI"
+6.20,22.70,N/A,N/A,N/A,N/A,116,26.65,4.30,5.00,"UPI"
+9.00,42.60,N/A,N/A,N/A,N/A,822,43.07,4.60,4.60,"Cash"
+5.70,26.30,N/A,N/A,N/A,1,859,10.75,N/A,N/A,"Uber Wallet"
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+9.80,N/A,N/A,1,"More than permitted people in there",N/A,N/A,N/A,N/A,N/A,N/A
+7.90,N/A,N/A,1,"Customer related issue",N/A,N/A,N/A,N/A,N/A,N/A
+11.70,N/A,N/A,1,"Customer related issue",N/A,N/A,N/A,N/A,N/A,N/A
+7.60,21.50,N/A,N/A,N/A,N/A,1149,19.57,4.40,4.30,"Cash"
+5.80,23.00,N/A,N/A,N/A,N/A,213,42.06,4.70,4.60,"UPI"
+2.90,28.80,N/A,N/A,N/A,N/A,135,31.41,4.20,3.80,"UPI"
+6.70,36.90,N/A,N/A,N/A,N/A,606,23.03,4.90,4.60,"Cash"
+10.80,21.50,N/A,N/A,N/A,N/A,1167,19.91,4.20,5.00,"Cash"
+8.70,19.80,N/A,N/A,N/A,N/A,341,34.89,4.60,4.90,"Uber Wallet"
+8.10,20.20,N/A,N/A,N/A,N/A,693,49.23,4.50,4.70,"Credit Card"
+12.10,15.20,N/A,N/A,N/A,N/A,327,3.18,4.30,4.60,"UPI"
+12.20,25.00,N/A,N/A,N/A,N/A,268,12.76,4.30,4.50,"UPI"
+13.90,31.80,N/A,N/A,N/A,N/A,187,20.30,4.30,4.20,"Cash"
+4.80,28.00,N/A,N/A,N/A,1,112,4.60,N/A,N/A,"UPI"
+2.30,15.30,N/A,N/A,N/A,N/A,536,23.28,3.30,5.00,"Credit Card"
+10.00,N/A,N/A,1,"More than permitted people in there",N/A,N/A,N/A,N/A,N/A,N/A
+2.20,16.50,N/A,N/A,N/A,N/A,820,36.23,3.70,4.60,"Cash"
+10.30,16.90,N/A,N/A,N/A,N/A,191,24.20,4.60,4.70,"Credit Card"
+13.00,16.20,N/A,N/A,N/A,N/A,329,8.28,4.50,5.00,"Debit Card"
+8.90,30.10,N/A,N/A,N/A,N/A,456,29.75,3.70,4.20,"UPI"
+6.10,25.50,N/A,N/A,N/A,N/A,137,43.55,4.30,4.90,"UPI"
+5.80,N/A,1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+12.30,27.20,N/A,N/A,N/A,N/A,959,9.54,3.70,3.30,"UPI"
+11.30,N/A,1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+7.10,31.90,N/A,N/A,N/A,N/A,55,15.62,4.40,4.20,"Cash"
+5.10,34.80,N/A,N/A,N/A,N/A,236,9.18,3.80,4.90,"UPI"
+5.80,N/A,N/A,1,"More than permitted people in there",N/A,N/A,N/A,N/A,N/A,N/A
+8.10,17.80,N/A,N/A,N/A,1,147,4.99,N/A,N/A,"UPI"
+10.90,20.80,N/A,N/A,N/A,N/A,351,44.94,5.00,4.40,"Cash"
+3.10,N/A,N/A,1,"Customer related issue",N/A,N/A,N/A,N/A,N/A,N/A
+3.40,40.30,N/A,N/A,N/A,N/A,153,17.72,4.10,4.30,"Cash"
+13.50,22.10,N/A,N/A,N/A,N/A,458,8.14,3.30,4.30,"UPI"
+11.20,N/A,N/A,1,"The customer was coughing/sick",N/A,N/A,N/A,N/A,N/A,N/A
+6.30,N/A,N/A,1,"More than permitted people in there",N/A,N/A,N/A,N/A,N/A,N/A
+13.90,N/A,1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+6.20,33.90,N/A,N/A,N/A,N/A,216,34.42,3.10,4.90,"UPI"
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+7.60,44.80,N/A,N/A,N/A,N/A,405,19.11,3.60,4.30,"Debit Card"
+9.60,N/A,1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+6.80,N/A,1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+11.10,39.60,N/A,N/A,N/A,N/A,97,8.69,3.20,4.10,"Cash"
+8.10,16.70,N/A,N/A,N/A,1,630,17.60,N/A,N/A,"Cash"
+6.30,35.30,N/A,N/A,N/A,N/A,387,35.07,5.00,4.20,"UPI"
+3.30,21.70,N/A,N/A,N/A,N/A,358,8.78,3.70,4.50,"UPI"
+7.30,27.30,N/A,N/A,N/A,1,327,8.98,N/A,N/A,"UPI"
+2.10,38.60,N/A,N/A,N/A,N/A,784,45.62,4.40,4.70,"UPI"
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+8.60,16.60,N/A,N/A,N/A,N/A,314,31.91,4.30,4.30,"Cash"
+5.00,17.70,N/A,N/A,N/A,N/A,802,12.66,4.20,4.60,"Uber Wallet"
+4.00,24.60,N/A,N/A,N/A,N/A,746,35.30,3.90,3.90,"Cash"
+4.70,38.60,N/A,N/A,N/A,N/A,605,23.92,4.50,5.00,"UPI"
+11.10,N/A,N/A,1,"More than permitted people in there",N/A,N/A,N/A,N/A,N/A,N/A
+2.90,32.50,N/A,N/A,N/A,N/A,1531,18.37,4.30,4.20,"Uber Wallet"
+6.60,19.60,N/A,N/A,N/A,N/A,343,31.47,4.10,4.90,"Debit Card"
+16.50,N/A,1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+5.00,29.40,N/A,N/A,N/A,N/A,76,27.43,4.40,4.80,"UPI"
+11.80,N/A,N/A,1,"Personal & Car related issues",N/A,N/A,N/A,N/A,N/A,N/A
+14.30,42.90,N/A,N/A,N/A,N/A,213,29.03,4.80,4.80,"Uber Wallet"
+11.80,26.50,N/A,N/A,N/A,N/A,171,20.90,4.60,4.40,"Cash"
+2.60,43.90,N/A,N/A,N/A,N/A,422,40.01,3.80,4.30,"UPI"
+6.80,23.80,N/A,N/A,N/A,1,119,8.06,N/A,N/A,"Cash"
+5.00,15.10,N/A,N/A,N/A,N/A,659,30.08,4.40,3.60,"Debit Card"
+8.30,20.20,N/A,N/A,N/A,1,1247,11.31,N/A,N/A,"Debit Card"
+10.40,N/A,N/A,1,"Personal & Car related issues",N/A,N/A,N/A,N/A,N/A,N/A
+10.50,38.90,N/A,N/A,N/A,N/A,279,43.33,3.80,4.90,"UPI"
+11.50,22.50,N/A,N/A,N/A,N/A,2908,23.65,4.20,5.00,"Debit Card"
+3.20,14.10,N/A,N/A,N/A,1,447,12.81,N/A,N/A,"Uber Wallet"
+4.80,30.90,N/A,N/A,N/A,N/A,726,40.97,4.10,4.90,"Cash"
+10.40,44.90,N/A,N/A,N/A,N/A,54,23.39,4.40,4.70,"Cash"
+7.50,20.80,N/A,N/A,N/A,N/A,321,46.44,4.40,3.20,"Cash"
+15.90,N/A,1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+7.30,N/A,1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+9.90,19.60,N/A,N/A,N/A,1,874,3.25,N/A,N/A,"Uber Wallet"
+5.50,N/A,N/A,1,"Personal & Car related issues",N/A,N/A,N/A,N/A,N/A,N/A
+7.50,21.30,N/A,N/A,N/A,N/A,790,43.79,4.80,4.60,"UPI"
+9.80,N/A,N/A,1,"More than permitted people in there",N/A,N/A,N/A,N/A,N/A,N/A
+8.70,N/A,N/A,1,"Personal & Car related issues",N/A,N/A,N/A,N/A,N/A,N/A
+14.80,27.00,N/A,N/A,N/A,N/A,56,32.82,4.60,4.90,"Credit Card"
+10.30,29.20,N/A,N/A,N/A,N/A,889,19.82,4.70,3.90,"Debit Card"
+4.10,37.80,N/A,N/A,N/A,N/A,722,40.00,3.80,4.90,"Cash"
+13.90,30.30,N/A,N/A,N/A,N/A,175,40.66,4.10,4.50,"UPI"
+7.90,16.30,N/A,N/A,N/A,N/A,539,10.89,4.70,4.20,"UPI"
+4.10,N/A,N/A,1,"The customer was coughing/sick",N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+11.80,43.60,N/A,N/A,N/A,N/A,822,41.40,4.10,4.30,"UPI"
+7.20,32.00,N/A,N/A,N/A,N/A,298,34.71,4.60,4.40,"Credit Card"
+2.10,41.80,N/A,N/A,N/A,N/A,812,34.68,4.30,3.90,"UPI"
+2.40,24.80,N/A,N/A,N/A,N/A,761,26.32,4.20,4.30,"UPI"
+11.50,N/A,1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+11.80,32.10,N/A,N/A,N/A,N/A,313,13.50,3.40,4.90,"UPI"
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+7.40,N/A,1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+10.80,29.20,N/A,N/A,N/A,N/A,217,11.82,3.90,3.30,"Cash"
+11.10,N/A,N/A,1,"More than permitted people in there",N/A,N/A,N/A,N/A,N/A,N/A
+8.70,N/A,1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+4.60,29.40,N/A,N/A,N/A,N/A,811,12.70,4.20,4.20,"UPI"
+10.60,40.20,N/A,N/A,N/A,N/A,438,25.71,4.20,4.60,"Credit Card"
+4.60,14.00,N/A,N/A,N/A,1,682,1.24,N/A,N/A,"Cash"
+10.50,28.70,N/A,N/A,N/A,N/A,294,6.61,4.30,4.70,"Credit Card"
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+5.20,36.90,N/A,N/A,N/A,N/A,272,12.56,4.70,4.90,"Cash"
+4.00,25.60,N/A,N/A,N/A,1,401,5.42,N/A,N/A,"UPI"
+8.80,20.60,N/A,N/A,N/A,1,114,8.12,N/A,N/A,"UPI"
+5.40,44.30,N/A,N/A,N/A,N/A,173,2.73,5.00,4.90,"UPI"
+6.70,44.80,N/A,N/A,N/A,N/A,145,36.00,3.20,4.60,"UPI"
+4.50,40.00,N/A,N/A,N/A,N/A,252,38.16,5.00,4.30,"UPI"
+2.90,28.20,N/A,N/A,N/A,1,118,8.06,N/A,N/A,"Debit Card"
+13.20,17.00,N/A,N/A,N/A,N/A,74,4.15,4.10,4.20,"Uber Wallet"
+5.10,30.10,N/A,N/A,N/A,N/A,944,16.70,4.60,4.30,"UPI"
+14.10,37.70,N/A,N/A,N/A,N/A,758,18.83,4.30,4.20,"Cash"
+13.90,41.60,N/A,N/A,N/A,N/A,57,49.95,4.40,4.70,"Cash"
+5.70,38.50,N/A,N/A,N/A,N/A,130,20.92,4.30,4.60,"UPI"
+10.70,N/A,N/A,1,"More than permitted people in there",N/A,N/A,N/A,N/A,N/A,N/A
+3.80,N/A,N/A,1,"Customer related issue",N/A,N/A,N/A,N/A,N/A,N/A
+14.00,36.20,N/A,N/A,N/A,N/A,795,19.56,3.90,4.20,"UPI"
+10.30,20.40,N/A,N/A,N/A,N/A,304,41.14,4.70,3.90,"Cash"
+14.70,23.20,N/A,N/A,N/A,N/A,147,2.84,3.70,4.90,"Uber Wallet"
+6.70,N/A,N/A,1,"Customer related issue",N/A,N/A,N/A,N/A,N/A,N/A
+4.80,28.40,N/A,N/A,N/A,N/A,215,16.41,4.20,3.80,"UPI"
+7.00,16.10,N/A,N/A,N/A,1,210,18.11,N/A,N/A,"Credit Card"
+4.10,31.80,N/A,N/A,N/A,N/A,315,33.14,3.70,4.30,"Debit Card"
+4.30,N/A,N/A,1,"Customer related issue",N/A,N/A,N/A,N/A,N/A,N/A
+9.50,N/A,1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+7.80,N/A,N/A,1,"The customer was coughing/sick",N/A,N/A,N/A,N/A,N/A,N/A
+12.00,37.80,N/A,N/A,N/A,N/A,737,41.78,4.40,3.70,"UPI"
+5.00,44.30,N/A,N/A,N/A,N/A,109,8.55,4.60,4.90,"UPI"
+14.00,N/A,1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+3.80,20.10,N/A,N/A,N/A,N/A,142,38.69,4.00,4.50,"Uber Wallet"
+7.30,16.60,N/A,N/A,N/A,N/A,415,28.51,4.30,4.60,"UPI"
+8.70,28.50,N/A,N/A,N/A,N/A,329,49.00,4.20,4.60,"UPI"
+4.50,16.20,N/A,N/A,N/A,N/A,960,15.82,4.40,3.70,"UPI"
+4.40,28.10,N/A,N/A,N/A,N/A,227,46.75,4.90,4.20,"UPI"
+19.60,N/A,1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+5.00,42.00,N/A,N/A,N/A,N/A,450,17.94,4.50,4.20,"Cash"
